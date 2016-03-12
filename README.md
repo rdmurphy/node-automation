@@ -19,15 +19,15 @@ There will be a snapshot of its beginning state in the `beginning` branch &mdash
 
 ## On the agenda
 
-— Install all the things!
-- What is gulp?
-- Writing your first gulp task
-- Setting up auto-reloading with BrowserSync
-- Concatinating your CSS
-- Minifying your CSS
-— Autoprefixing your CSS
-- Concatinating your JavaScript
-— Linting your JavaScript
-— Minifying your JavaScript
-— Minifying your images
-— Putting it all together
+* Install all the things!
+* What is gulp?
+* Writing your first gulp task
+* Setting up auto-reloading with BrowserSync
+* Concatinating your CSS
+* Minifying your CSS
+* Autoprefixing your CSS
+* Concatinating your JavaScript
+* Linting your JavaScript
+* Minifying your JavaScript
+* Minifying your images
+* Putting it all together
