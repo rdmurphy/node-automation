@@ -1,0 +1,37 @@
+body {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.masthead {
+  background-color: #607D8B;
+  width: 100%;
+}
+
+.headline {
+  color: #ffffff;
+  margin: 0 0 20px;
+  padding: 10px 0;
+}
+
+.content {
+  text-align: center;
+}
+
+.spinner {
+  background-color: #607D8B;
+  border: 1px solid #607D8B;
+  color: #ffffff;
+  display: inline-block;
+  transition: transform 2s;
+}
+
+.spinner:hover {
+  transform: rotate(180deg);
+}
